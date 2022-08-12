@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladimir
+- 👋 Hi, I’m Vladimir Gorbunov
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Git Hub
 - 💞️ I’m looking to collaborate on a netspace.
